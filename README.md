@@ -1,9 +1,3 @@
-# Sandbox-Autofarm-Bot
-An auto-farming bot for the Sandbox Cryptocurrency Game.
-# Sandbox-Autofarm-Bot
-Software to autofarm on the sandbox ethereum metaverse game
-
-
 <h1 align="center">
   <br>
   <a href="https://github.com/patryk918/Sandbox-Autofarm-Bot"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcryptopotato.com%2Fwp-content%2Fuploads%2F2020%2F08%2Fsandbox_logo.png&f=1&nofb=1" alt="OSandbox Autofarm Bot" width="200"></a>
@@ -23,7 +17,7 @@ Sandbox Autofarm Bot  <br>
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.MS_hP5KW3uy-7wP6e08Q9QHaEK%26pid%3DApi&f=1)
+![screenshot]([https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.MS_hP5KW3uy-7wP6e08Q9QHaEK%26pid%3DApi&f=1](https://i.ytimg.com/vi/CX3JyvAzjA0/hqdefault.jpg)
 
 ## Key Features
 
